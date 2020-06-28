@@ -38,6 +38,19 @@ captures/
 
 # IntelliJ
 *.iml
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.idea/
 .idea/workspace.xml
 .idea/tasks.xml
 .idea/gradle.xml
@@ -83,3 +96,4 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
+.cxx
